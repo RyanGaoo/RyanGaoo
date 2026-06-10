@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ryan</h1>
+<h1 align="center">Hi, I'm Ryan</h1>
 
 <p align="center">
   Software Engineer · Computer Science @ University of Toronto · Toronto, Canada
