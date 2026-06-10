@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ryan <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"></h1>
+<h1 align="center">Hey, I'm Ryan</h1>
 
 <p align="center">
   Software Engineer · Computer Science @ University of Toronto · Toronto, Canada
