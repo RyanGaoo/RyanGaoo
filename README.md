@@ -54,6 +54,17 @@
 
 ---
 
+### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGaoo&theme=github-light&hide_border=true&area=true" alt="Contribution graph"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanGaoo&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaoo&layout=compact&langs_count=8&theme=graywhite&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGaoo&theme=graywhite&hide_border=true" alt="Streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGaoo&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
 </p>
