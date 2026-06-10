@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm Ryan Gao 👋</h1>
+<h1 align="center">Ryan Gao</h1>
 
 <p align="center">
-  <b>Software Engineer & Builder</b> · CS @ University of Toronto · Toronto, Canada 🇨🇦
-</p>
-
-<p align="center">
-  I build full-stack and AI-driven software that ships — from RAG pipelines and Flask APIs<br/>
-  to responsive React frontends. I care about clean architecture, real testing, and code that<br/>
-  holds up in the real world.
+  Software Engineer · Computer Science @ University of Toronto · Toronto, Canada
 </p>
 
 <p align="center">
@@ -19,16 +13,7 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 Honours BSc in Computer Science (**Software Engineering stream + Co-op**) at the University of Toronto Scarborough
-- 💼 **Software Developer** @ C.R.E.A.T.E. (UofT) — building a RAG-based note-taking app used by hundreds of students
-- 🤖 I love hackathons, AI tooling, computer vision, and gluing software to hardware
-- 🌐 Check out my work at **[ryangaoo.github.io/portfolio](https://ryangaoo.github.io/portfolio/)**
-
----
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -69,31 +54,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech | Award |
-| :------ | :---------- | :--- | :---- |
-| **[CodeGuard](https://devpost.com/software/repo-warrior)** | Automated code reviewer that learns a repo's own standards from past PRs via RAG | `Python` `TypeScript` `MongoDB` `LLMs` | LA Hacks 2026 |
-| **[LockBlock](https://devpost.com/software/lockblock-9ct281)** | Face-recognition door lock with blockchain-backed remote approval | `Python` `Flask` `OpenCV` `Solana` | 🏆 Best Use of Solana |
-| **[HatsEye](https://devpost.com/software/hatseye)** | Wearable AI that narrates surroundings aloud for the visually impaired | `Python` `YOLOv8` `Gemini` `IoT` | 🏅 Top 6 — DeltaHacks 12 |
-| **[STOP! Don't Go On!](https://devpost.com/software/stop-don-t-go-on)** | A focus gadget that sprays you when it catches you slacking off | `OpenCV` `React` `Arduino` | 🏅 Top 6 Finalists |
-| **[MyRoom](https://devpost.com/software/myroom-ju8v6y)** | Turn a room photo into a buildable, shoppable 3D voxel scene | `React` `Three.js` `MongoDB` `RAG` | UofTHacks 13 |
-
-> 🔎 More on my **[portfolio](https://ryangaoo.github.io/portfolio/)** and **[Devpost](https://devpost.com/RyanGaoo)**.
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanGaoo&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Ryan's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaoo&layout=compact&theme=graywhite&hide_border=true" alt="Top languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGaoo&theme=github-light&hide_border=true&area=true" alt="Contribution graph"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGaoo&theme=graywhite&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
-<p align="center"><i>Always building. Always shipping. 🚀</i></p>
