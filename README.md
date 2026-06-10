@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RyanGaoo/RyanGaoo/main/github-metrics.svg?v=2" alt="GitHub metrics"/>
+  <img src="https://raw.githubusercontent.com/RyanGaoo/RyanGaoo/main/github-metrics.svg?v=3" alt="GitHub metrics"/>
 </p>

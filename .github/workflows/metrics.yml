@@ -28,8 +28,8 @@ jobs:
           user: RyanGaoo
           filename: github-metrics.svg
           template: classic
-          # Compact: just the header + activity (accurate commit count) + languages
-          base: header, activity
+          # Minimal: just the activity numbers (accurate commit count) + languages
+          base: activity
           config_timezone: America/Toronto
 
           # Count private repos/commits the token can see
