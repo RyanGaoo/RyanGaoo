@@ -51,6 +51,5 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanGaoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=808080&icon_color=2f80ed" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaoo&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=808080" alt="Top languages"/>
+  <img src="./github-metrics.svg" alt="GitHub metrics"/>
 </p>
