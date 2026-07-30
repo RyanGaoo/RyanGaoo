@@ -47,10 +47,3 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 </div>
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-ryan-s-projectssss.vercel.app/api?username=RyanGaoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=808080&icon_color=2f80ed&v=2" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-ryan-s-projectssss.vercel.app/api/top-langs/?username=RyanGaoo&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=808080&v=2" alt="Top languages"/>
-</p>
